@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `E^3 = Expressions, Equations, and Equity`,
+    author: `Stephen Abreu`,
+    description: `An educator reflective on math education and equity practices in the classroom`,
+    siteUrl: `https://www.stephenabreu.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `irrationalQ`,
     },
   },
   plugins: [
